@@ -1,2 +1,2 @@
 # jstimer
-Javascript Timer
+Simple Javascript Timer Project
